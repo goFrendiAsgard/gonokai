@@ -1,0 +1,21 @@
+{
+  "name": "gonokai",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A monokai theme where pink is yellow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goFrendiAsgard/gonokai.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "readme": "##Gonokai\nJust another monokai theme, where pink is yellow.\n\nOriginal version: https://github.com/kevinsawicki/monokai",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/goFrendiAsgard/gonokai/issues"
+  },
+  "homepage": "https://github.com/goFrendiAsgard/gonokai#readme",
+}
